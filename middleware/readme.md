@@ -1,6 +1,6 @@
 # Middleware
 
-In the previous chapter we learned about how [Hooks](../hooks/readme.md) are used as data-oriented middleware for services.
+In a previous chapter we learned about how [Hooks](../hooks/readme.md) are used as data-oriented middleware for services.
 
 A slightly different kind of middleware is one of the key concepts behind Express and since Feathers just extends Express, it can use all existing Express middleware and features.
 
